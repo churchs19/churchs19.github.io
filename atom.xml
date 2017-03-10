@@ -4,9 +4,9 @@
   <subtitle>Software Developer</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://localhost:4000/"/>
+  <link href="http://s-church.net/"/>
   <updated>2017-03-10T18:28:32.711Z</updated>
-  <id>http://localhost:4000/</id>
+  <id>http://s-church.net/</id>
   
   <author>
     <name>Shane Church</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Stine Seed</title>
-    <link href="http://localhost:4000/blog/2017/02/07/stine-seed/"/>
-    <id>http://localhost:4000/blog/2017/02/07/stine-seed/</id>
+    <link href="http://s-church.net/blog/2017/02/07/stine-seed/"/>
+    <id>http://s-church.net/blog/2017/02/07/stine-seed/</id>
     <published>2017-02-07T18:03:54.000Z</published>
     <updated>2017-03-10T18:28:32.711Z</updated>
     
@@ -32,16 +32,16 @@
     </summary>
     
     
-      <category term="Developer" scheme="http://localhost:4000/tags/developer/"/>
+      <category term="Developer" scheme="http://s-church.net/tags/developer/"/>
     
-      <category term="Stine Seed" scheme="http://localhost:4000/tags/stine-seed/"/>
+      <category term="Stine Seed" scheme="http://s-church.net/tags/stine-seed/"/>
     
   </entry>
   
   <entry>
     <title>Fully Feedly</title>
-    <link href="http://localhost:4000/blog/2016/11/03/fully-feedly/"/>
-    <id>http://localhost:4000/blog/2016/11/03/fully-feedly/</id>
+    <link href="http://s-church.net/blog/2016/11/03/fully-feedly/"/>
+    <id>http://s-church.net/blog/2016/11/03/fully-feedly/</id>
     <published>2016-11-03T15:28:15.000Z</published>
     <updated>2017-03-10T18:21:58.168Z</updated>
     
@@ -56,18 +56,18 @@
     </summary>
     
     
-      <category term="Development" scheme="http://localhost:4000/tags/development/"/>
+      <category term="Development" scheme="http://s-church.net/tags/development/"/>
     
-      <category term="Feedly" scheme="http://localhost:4000/tags/feedly/"/>
+      <category term="Feedly" scheme="http://s-church.net/tags/feedly/"/>
     
-      <category term="Chrome" scheme="http://localhost:4000/tags/chrome/"/>
+      <category term="Chrome" scheme="http://s-church.net/tags/chrome/"/>
     
   </entry>
   
   <entry>
     <title>Lightning Talks at Experiencing UX</title>
-    <link href="http://localhost:4000/blog/2016/04/21/lightning-talks-at-experiencing-ux/"/>
-    <id>http://localhost:4000/blog/2016/04/21/lightning-talks-at-experiencing-ux/</id>
+    <link href="http://s-church.net/blog/2016/04/21/lightning-talks-at-experiencing-ux/"/>
+    <id>http://s-church.net/blog/2016/04/21/lightning-talks-at-experiencing-ux/</id>
     <published>2016-04-21T16:25:42.000Z</published>
     <updated>2017-03-10T18:22:52.026Z</updated>
     
@@ -90,18 +90,18 @@
     </summary>
     
     
-      <category term="What I Eat" scheme="http://localhost:4000/tags/what-i-eat/"/>
+      <category term="What I Eat" scheme="http://s-church.net/tags/what-i-eat/"/>
     
-      <category term="UX" scheme="http://localhost:4000/tags/ux/"/>
+      <category term="UX" scheme="http://s-church.net/tags/ux/"/>
     
-      <category term="Simplicity" scheme="http://localhost:4000/tags/simplicity/"/>
+      <category term="Simplicity" scheme="http://s-church.net/tags/simplicity/"/>
     
   </entry>
   
   <entry>
     <title>Creative Technologist</title>
-    <link href="http://localhost:4000/blog/2016/04/05/creative-technologist/"/>
-    <id>http://localhost:4000/blog/2016/04/05/creative-technologist/</id>
+    <link href="http://s-church.net/blog/2016/04/05/creative-technologist/"/>
+    <id>http://s-church.net/blog/2016/04/05/creative-technologist/</id>
     <published>2016-04-05T18:00:03.000Z</published>
     <updated>2017-02-20T15:33:42.497Z</updated>
     
@@ -116,18 +116,18 @@
     </summary>
     
     
-      <category term="Des Moines" scheme="http://localhost:4000/tags/des-moines/"/>
+      <category term="Des Moines" scheme="http://s-church.net/tags/des-moines/"/>
     
-      <category term="UX" scheme="http://localhost:4000/tags/ux/"/>
+      <category term="UX" scheme="http://s-church.net/tags/ux/"/>
     
-      <category term="Nationwide" scheme="http://localhost:4000/tags/nationwide/"/>
+      <category term="Nationwide" scheme="http://s-church.net/tags/nationwide/"/>
     
   </entry>
   
   <entry>
     <title>Dancing in Des Moines</title>
-    <link href="http://localhost:4000/blog/2016/03/20/dancing-in-des-moines/"/>
-    <id>http://localhost:4000/blog/2016/03/20/dancing-in-des-moines/</id>
+    <link href="http://s-church.net/blog/2016/03/20/dancing-in-des-moines/"/>
+    <id>http://s-church.net/blog/2016/03/20/dancing-in-des-moines/</id>
     <published>2016-03-20T16:15:59.000Z</published>
     <updated>2017-03-10T18:22:52.009Z</updated>
     
@@ -144,11 +144,11 @@
     </summary>
     
     
-      <category term="CU Buffs" scheme="http://localhost:4000/tags/cu-buffs/"/>
+      <category term="CU Buffs" scheme="http://s-church.net/tags/cu-buffs/"/>
     
-      <category term="March Madness" scheme="http://localhost:4000/tags/march-madness/"/>
+      <category term="March Madness" scheme="http://s-church.net/tags/march-madness/"/>
     
-      <category term="Des Moines" scheme="http://localhost:4000/tags/des-moines/"/>
+      <category term="Des Moines" scheme="http://s-church.net/tags/des-moines/"/>
     
   </entry>
   
